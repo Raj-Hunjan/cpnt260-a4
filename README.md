@@ -1,16 +1,16 @@
-## Landing page
+# Landing page
 ---
 
-# Links:
+## Links:
 - Repo: https://github.com/Raj-Hunjan/cpnt260-a4
 - Not sure if the page is working: https://raj-hunjan.github.io/cpnt260-a4/
 - READ CODE REVIEW: [My codepen](https://codepen.io/rajhunjann/pen/dyRERRJ)
 
-# Code review:
+## Code review:
 - I had a couple of problems but the one I struggled with the most was the responsive nav bar.
 - I fixed a coding issue in codepen where the drop down menu was not working but I can't seem to get the drop down menu working in VS code for some reason so thats why there's a link to my codepen.
 
-# Attributions:
+## Attributions:
 - Licenses are by [Unsplash](https://unsplash.com/license) and [Pexels](https://www.pexels.com/license/)
 - Inspiration: [Screamfest](https://screamfest.ca/)
 - [Creepy zombie thing](https://images.unsplash.com/photo-1509558273944-9ea880029528?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80) by [NeONBRAND](https://unsplash.com/@neonbrand)
